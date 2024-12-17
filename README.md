@@ -6,6 +6,7 @@ My name is Everson and I'm a Science Computer student who's passionate about lea
 - 🌱 I’m currently learning PHP and Data Science and also perfecting the things I've already learned throughout the process of making my projects.
 - 👯 I have recently worked with a few friends of mine to build a website for anime lovers (myself included), check it out [here](https://github.com/Ichibeii/LibraryApi), and I'm still open to any sort of collaborations You might want to have with me, just contact me, also here's my [LinkedIn](https://www.linkedin.com/in/everson-padilha-731a8b291/) :).
 - 💬 I’m fluent on Portuguese, English and Spanish.
+- 📫 How to reach me: My e-mail is "eversonpadilhaf@hotmail.com".
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Just send me a challenge and We'll work it out :D.
 
