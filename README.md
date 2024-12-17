@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Everson and I'm a Science Computer student who's passionate about learning and deep diving into everything tech-related and interested on working with Java, Python, Web Development and DataBase.
+
+- 🔭 I’m currently working on rebuilding and building websites like [Starbucks's](https://github.com/TeexMoon/HTML-CSS-project), and creating an AI-powered mental health program based on people's self-esteem.
+- 🌱 I’m currently learning PHP and Data Science and also perfecting the things I've already learned throughout the process of making my projects.
+- 👯 I have recently worked with a few friends of mine to build a website for anime lovers (myself included), check it out [here](https://github.com/Ichibeii/LibraryApi), and I'm still open to any sort of collaborations You might want to have with me, just contact me, also here's my [LinkedIn](https://www.linkedin.com/in/everson-padilha-731a8b291/) :).
+- 💬 I’m fluent on Portuguese, English and Spanish.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: Just send me a chanllenge and We'll work it out :D.
+
 <!--
 **TeexMoon/teexmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
