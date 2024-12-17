@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Everson and I'm a Science Computer student who's passionate about learning and deep diving into everything tech-related and interested on working with Java, Python, Web Development and DataBase.
+My name is Everson and I'm a Science Computer student who's passionate about learning and deep diving into everything tech-related and interested on working with Java, Python, Web Development, C#, .NET, React.js, Angular.js, Vue.js, Node.js, GIT, Mobile Development, Github and DataBase.
 
 - 🔭 I’m currently working on rebuilding and building websites like [Starbucks's](https://github.com/TeexMoon/HTML-CSS-project), and creating an AI-powered mental health program based on people's self-esteem.
 - 🌱 I’m currently learning PHP and Data Science and also perfecting the things I've already learned throughout the process of making my projects.
