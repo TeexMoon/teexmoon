@@ -7,7 +7,7 @@ My name is Everson and I'm a Science Computer student who's passionate about lea
 - 👯 I have recently worked with a few friends of mine to build a website for anime lovers (myself included), check it out [here](https://github.com/Ichibeii/LibraryApi), and I'm still open to any sort of collaborations You might want to have with me, just contact me, also here's my [LinkedIn](https://www.linkedin.com/in/everson-padilha-731a8b291/) :).
 - 💬 I’m fluent on Portuguese, English and Spanish.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Just send me a chanllenge and We'll work it out :D.
+- ⚡ Fun fact: Just send me a challenge and We'll work it out :D.
 
 <!--
 **TeexMoon/teexmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
